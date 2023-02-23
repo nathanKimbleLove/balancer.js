@@ -47,6 +47,4 @@ const balancer = (port = 8080, ips, loaderio) => {
 
 }
 
-balancer(8010, ['http://18.219.227.167:3000', 'http://18.222.51.19:3000']);
-
 module.exports = balancer

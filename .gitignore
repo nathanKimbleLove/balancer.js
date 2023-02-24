@@ -3,3 +3,7 @@ node_modules/
 testServers/node_modules/
 
 testServers/
+
+.index-noX.js
+
+k6.js
